@@ -1,0 +1,17 @@
+VPC
+EC2
+
+Subnet Route table IGW
+
+Elastic IP RT 
+
+
+create a branch through git tool in Linux
+
+
+
+1)Pull request and merge
+2)Branch creation from git bash
+3)Branch change from git bash
+4)Branch deletion from bash
+5)Conflict.
